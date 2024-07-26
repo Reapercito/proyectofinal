@@ -1,0 +1,18 @@
+/*
+selector{
+    prpieded: valor;
+}
+*/
+
+/* estilos del body*/
+body{
+    background-image: url(../imagenes/imagen\ para\ fonde\ de\ pagina\ web.jpg);
+}
+
+/*estilo del formulario*/
+.formulario{
+    display: block;
+    flex-wrap: nowrap;
+}
+
+
